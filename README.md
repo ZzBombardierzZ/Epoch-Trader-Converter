@@ -8,7 +8,7 @@ A simple program built for DayZ Epoch to easily convert trader files into a CSV 
 * Super Fast!
 
 Youtube Example Video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q9t-Ug1_ZIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=q9t-Ug1_ZIE
 
 ## Notes
 * It is suggested to backup your trader files before using this program in case of some sort of error. Although, it doesn't change your files directly unless you tell it to.
