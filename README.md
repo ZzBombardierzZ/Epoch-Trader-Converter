@@ -11,6 +11,7 @@ Youtube Example Video:
 https://www.youtube.com/watch?v=q9t-Ug1_ZIE
 
 ## Notes
+* This DOES NOT deal the with the trader menu handling. If you add Category numbers to the CSV file, you will need to manually assign them to your desired traders. The default location for this is @DayZ_Epoch\addons\dayz_code\system\mission\server_traders\chernarus11.sqf or replace chernarus11.sqf with whichever map you are using. These are not instructions for how to customize this file.
 * It is suggested to backup your trader files before using this program in case of some sort of error. Although, it doesn't change your files directly unless you tell it to.
 * Running Trader to CSV will not take any comments from the trader files, they are stripped as it reads them.
 * Trader to CSV only works with "worth" aka coins and silver/gold item classnames for the buy/sell prices.
