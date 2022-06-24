@@ -39,8 +39,5 @@ https://www.youtube.com/watch?v=q9t-Ug1_ZIE
 * It is not techincally licensed.
 
 Feeling tipsy?
-[
-  ![Donate with PayPal]
-  (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
-]
-(https://www.paypal.com/donate/?business=SVCKSPPNCZYUY&no_recurring=0&item_name=Any+tips%2Fdonations+are+appreciated+and+will+help+buy+more+coffee.&currency_code=USD)
+[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
+](https://www.paypal.com/donate/?business=SVCKSPPNCZYUY&no_recurring=0&item_name=Any+tips%2Fdonations+are+appreciated+and+will+help+buy+more+coffee.&currency_code=USD)
