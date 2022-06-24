@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=q9t-Ug1_ZIE
 * I built this software myself and I am not affiliated with Epoch.
 * I am not responsible for any damage or loss of data that may occur from using this software.
 * Though this software is free to all to use, I have decided to not share the source code this time around.
-* It is not techincally licensed.
+* It is not technically licensed.
 
 Feeling tipsy?
 [![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
