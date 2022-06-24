@@ -30,6 +30,7 @@ https://www.youtube.com/watch?v=q9t-Ug1_ZIE
         * Another example: 1050 would be converted to 105x ItemSilverBar10oz
         * Consider the above carefully when choosing prices if you plan to use classic silver/gold economy.
 * As stated before, do not use something like "ItemRuby" for the buy price, it will not work. Epoch should automatically convert 10, "Itembriefcase100oz" to 1 ruby in the traders if you have a ruby set to being worth to 10 briefcases.
+* When viewing/editing the CSV file and if you plan to use classic economy, take a look at this [Currency Value File](https://github.com/ZzBombardierzZ/Epoch-Trader-Converter/blob/main/DayZ_Epoch_Silver_and_Gold_Values.txt)
 
 ## Legal
 * I built this software myself and I am not affiliated with Epoch.
